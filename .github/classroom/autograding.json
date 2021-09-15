@@ -1,9 +1,9 @@
 {
   "tests": [
     {
-      "name": "Check assignment requirements",
+      "name": "Autograding",
       "setup": "npm install",
-      "run": "npm test",
+      "run": "npm run test",
       "input": "",
       "output": "",
       "comparison": "included",
